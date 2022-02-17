@@ -1,6 +1,6 @@
-import { settings } from "../assets/configs/game";
-import './Title.css'
+import { settings } from "../configs/game";
+import "./Title.css";
 
 export const Title = () => {
-    return <h1 className="title"> {settings.gameName} </h1>
-}
+    return <h1 className="title">{settings.gameName}</h1>;
+};

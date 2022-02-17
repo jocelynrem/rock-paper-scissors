@@ -7,9 +7,9 @@
     background-color: white;
     border-radius: 20px;
     transition: transform 0.1s;
-}
-
-.reset-btn:hover {
+  }
+  
+  .reset-btn:hover {
     cursor: pointer;
-    transform: scale(1.1)
-}
+    transform: scale(1.1);
+  }

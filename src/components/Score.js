@@ -1,5 +1,5 @@
-import './Score.css'
+import "./Score.css";
 
 export const Score = ({ score }) => {
-    return <h1 className='score'> {score} </h1>
-}
+    return <h1 className="score">{score}</h1>;
+};

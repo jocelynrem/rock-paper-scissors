@@ -1,5 +1,5 @@
-import './Playground.css'
+import "./Playground.css";
 
 export const Playground = ({ children }) => {
-    return <div className='play-ground'>{children} </div>
-}
+    return <div className="play-area">{children}</div>;
+};
